@@ -1,6 +1,6 @@
 <h1 align="center">
     Welcome. I'm Anton
-    <img src="https://github.com/threehundredbytes/threehundredbytes/assets/wave.gif" height="32">
+    <img src="https://github.com/threehundredbytes/threehundredbytes/raw/master/assets/wave.gif" height="32">
 </h1>
 <h3 align="center">
     Java Developer from Kaliningrad city, Russia 🇷🇺
@@ -18,7 +18,7 @@
 ### My pet projects 🐾
 #### [stock-market](https://github.com/threehundredbytes/stock-market) - Spring Cloud microservices demo project.
 
-Stack: Java 17 / Spring Cloud / Kafka / Keycloak / ELK / Docker
+Stack: Java 17 / Spring Cloud / Kafka / Zipkin / ELK / Keycloak / PostgreSQL / Redis / MongoDB / Docker
 
 ---
 
