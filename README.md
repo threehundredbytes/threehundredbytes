@@ -30,5 +30,5 @@ Stack: Java 11 / Spring Boot / Spring Data / Spring Security / PostgreSQL / Flyw
 - Telegram: [@threehundredbytes](https://t.me/threehundredbytes)
 - E-mail: [antonkosarev.dev@gmail.com](mailto:antonkosarev.dev@gmail.com)
 <div align="center">
-    <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=threehundredbytes&show_icons=true&theme=transparent">
+    <img src="https://github-readme-stats.vercel.app/api?username=threehundredbytes&show_icons=true&theme=transparent">
 </div>
